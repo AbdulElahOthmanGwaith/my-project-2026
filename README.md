@@ -105,3 +105,4 @@ MIT License - See [LICENSE](LICENSE) file for details.
 - 📧 Email: support@nexus-ai.io
 - 💬 Discord: [Join our community](https://discord.gg/nexus-ai)
 - 📖 Documentation: [docs.nexus-ai.io](https://docs.nexus-ai.io)
+Updated for GitHub Pages
